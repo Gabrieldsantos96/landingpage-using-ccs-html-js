@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  min-height: 100vh;
+  margin: 50px auto;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  }
+header, main, aside, footer {
+text-align: center;
+color: white;
+}
+
+header,footer {
+  background-color:lightskyblue ;
+}
+
+nav {
+  background-color: lightsalmon;
+}
+
+main {
+ background: lightgreen;
+}
+
+aside {
+  background-color: lightsalmon;
+}
+
+ menu, main, aside {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }

@@ -1,0 +1,49 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+body {
+  background: rgb(177, 173, 173);
+  padding:100px;
+}
+
+.card {
+  background: white;
+  border-radius: 20px;
+  border: 1px whitesmoke solid;
+  text-align: center;
+  padding: 35px 52px 70px 52px ;
+  max-width: 432px;
+  margin:0 auto;
+  margin-bottom: 50px; 
+
+}
+
+.btn-fechar { 
+  width: 30px;
+  margin-left: auto;
+}
+
+#cookie  #alert{
+  margin-bottom: 31px;
+}
+
+
+p {
+  margin-bottom: 40px;
+}
+
+.btn {
+  text-decoration: none;
+  color: white;
+  padding:14px 62px;
+}
+
+.btn-vermelho {
+  background: #ca400e;
+  border-radius: 5px;
+}
+
+.btn-azul {
+  background:rgb(19, 19, 165);
+  border-radius: 5px;
+}

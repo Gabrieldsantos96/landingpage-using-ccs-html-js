@@ -1,0 +1,14 @@
+<h1 style="color:blue;">Olá Mundo</h1>
+
+
+<head>
+<style>
+	h1 {
+	color: red;
+}
+</style>
+</head>
+
+linkar arquivos
+<link href="styles.css" rel="stylesheet">
+Criar arquivo style.css

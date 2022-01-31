@@ -1,0 +1,80 @@
+
+body {
+  background:rgb(155, 141, 141);
+}
+
+img {
+  margin: none;
+}
+
+.card {
+  box-sizing: border-box;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0px 15px 30px -20px #D4DCF3;
+}
+
+.card-branco {
+  margin-top: 50px;
+  background-color:white;
+  color: black;
+ }
+ 
+.card-azul {
+  background-color:#101439;
+  color: white;
+}
+
+.quote {
+  padding: 60px 85px; 
+  max-width: 505px;
+  margin-bottom: 126px;
+}
+
+.quote p {
+  font-family: 'Merriweather', serif;
+  font-size: 22px;
+  line-height: 36px;
+  margin-bottom: 38px;
+}
+
+.quote span, .alert span {
+  font-family: 'Open Sans', sans-serif; 
+  font-size: 14px;
+  line-height: 28px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.alert {
+  padding:60px;
+  max-width: 431px;
+}
+
+.alert span {
+  margin-bottom: 10px;
+}
+
+.alert h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 22px;
+  line-height: 32px;
+  margin-bottom: 13px;
+}
+
+.alert p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  margin-bottom: 55px;
+}
+
+.alert a {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  background: #FFFFFF;
+  border-radius: 10px;
+  color: #101439;
+  padding: 25px 100px;
+}

@@ -1,0 +1,11 @@
+.contato {
+  margin-right: 200px;
+}
+
+p {
+  margin-left: 35px;
+}
+li {
+  justify-content: flex-start;
+  margin-right: 20px;
+}

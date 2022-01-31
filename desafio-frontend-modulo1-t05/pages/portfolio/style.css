@@ -1,0 +1,33 @@
+.manage-section {
+  margin-bottom: 80px;
+}
+
+.text-format {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+padding:20px 0px 20px 0px;
+margin: 0px 40px;
+}
+
+.space {
+  margin: 0px 40px;
+}
+
+.img-1 {
+    background-color: #FFEFEC;
+  }
+
+.img-2 {
+  background-color: #4F63D8;
+}
+
+.img-3 {
+background-color: #9A99AB;
+}
+
+.img-4{
+background-color: #41B4D3;
+}
+
